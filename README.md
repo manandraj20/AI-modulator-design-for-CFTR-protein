@@ -1,2 +1,1 @@
-# AI-modulator-design-for-CFTR-protein
-We design novel modulator molecules for CFTR that binds to the defective CFTR at the cell surface and opens the chloride channel (holds the gate open) so that chloride can flow through, regulating the amount of fluids at the surface of the cell. This helps in controlling the symptoms of cystic fibrosis.
+# We create brand-new CFTR modulator molecules that bind to the damaged CFTR at the cell surface and hold the gate open, allowing chloride to flow through and controlling the amount of fluid at the cell surface. This aids in symptom management for cystic fibrosis.
